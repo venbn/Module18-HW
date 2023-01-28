@@ -29,8 +29,6 @@ The ledger has been tested by performing several transactions which does the fol
 
 Below is the link to the video-screenshot of the streamlit application page has been taken which records the multiple transactions and blocks :
 
-https://github.com/venbn/Module18-HW/blob/main/PyChainLedger.mp4
-
 ![](PyChainLedger.mp4)
-  
----
+
+https://github.com/venbn/Module18-HW/blob/main/PyChainLedger.mp4
