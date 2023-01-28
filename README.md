@@ -29,9 +29,6 @@ The ledger has been tested by performing several transactions which does the fol
 
 Below is the video-screenshot of the streamlit application page has been taken which records the multiple transactions and blocks :
 
-https://user-images.githubusercontent.com/112692272/215257118-2e72a29a-5648-4690-986d-d40c4f6bd978.mp4
-
-
 
 https://user-images.githubusercontent.com/112692272/215288274-168d9419-9fc8-4d0d-8f32-4e05a09abc4c.mp4
 
