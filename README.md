@@ -27,12 +27,7 @@ The ledger has been tested by performing several transactions which does the fol
   - Provide inputs for sender, receiver and amount attributes several times and stores/displays the blocks 
   - Verify the block contents and hashes in the Streamlit dropdown menu. 
 
-Below is the link to the video-screenshot of the streamlit application page has been taken which records the multiple transactions and blocks :
-
-
+Below is the video-screenshot of the streamlit application page has been taken which records the multiple transactions and blocks :
 
 https://user-images.githubusercontent.com/112692272/215257118-2e72a29a-5648-4690-986d-d40c4f6bd978.mp4
 
-
-
-https://github.com/venbn/Module18-HW/blob/main/PyChainLedger.mp4
